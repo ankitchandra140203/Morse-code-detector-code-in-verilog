@@ -1,4 +1,5 @@
 # Morse code detector code in verilog
+## Problem statement (Refer to pdf attached)->
  Morse code detector code in verilog using fsm and switch case which will detect emergency signal "HELP".
 
  ## Let's break the code 
